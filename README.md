@@ -2,7 +2,7 @@
 
 The dataset for this assignment is obtained from Instacart, an electronic commerce grocery ordering and delivery organization. The dataset contains a sample of over 3 million grocery orders from more than 200,000 Instacart users. The dataset contains details about the orders placed by various users, the sequence of products purchased in each order, the week and hour of day the order was placed, and a relative measure of time between orders. It also has information about the aisle and department for the sold products.
 
-TABLEAU PUBLIC WEBSITE LINK FOR THE DASHBOARD[https://public.tableau.com/app/profile/kirthika.kulandaivel.senthilkumar/viz/InstacartProductAnalysis_17312947661190/Story1)]
+TABLEAU PUBLIC WEBSITE LINK FOR THE DASHBOARD  [https://public.tableau.com/app/profile/kirthika.kulandaivel.senthilkumar/viz/InstacartProductAnalysis_17312947661190/Story1)]
 
 ACQUIRING DATA
 
