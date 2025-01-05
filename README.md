@@ -9,16 +9,16 @@ ACQUIRING DATA
 DEFINING THE AUDIENCE
 
 a) The primary groups and individuals that are the focus of our communication are:
-•	Store Managers
-•	Customers
-•	Senior Leadership
-•	Sales Executives
-•	Suppliers
-•	Warehouse Manager
-•	Store Employees
-•	Sales Associates
-•	Competitors
-•	Delivery Partners
+- •	Store Managers
+- •	Customers
+- •	Senior Leadership
+- •	Sales Executives
+- •	Suppliers
+- •	Warehouse Manager
+- •	Store Employees
+- •	Sales Associates
+- •	Competitors
+- •	Delivery Partners
 
 b) The executive role or position that is the key decision-maker in our audience:
 •	Senior Leadership
