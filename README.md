@@ -9,42 +9,42 @@ ACQUIRING DATA
 DEFINING THE AUDIENCE
 
 a) The primary groups and individuals that are the focus of our communication are:
-- •	Store Managers
-- •	Customers
-- •	Senior Leadership
-- •	Sales Executives
-- •	Suppliers
-- •	Warehouse Manager
-- •	Store Employees
-- •	Sales Associates
-- •	Competitors
-- •	Delivery Partners
+- Store Managers
+- Customers
+- Senior Leadership
+- Sales Executives
+- Suppliers
+- Warehouse Manager
+- Store Employees
+- Sales Associates
+- Competitors
+- Delivery Partners
 
 b) The executive role or position that is the key decision-maker in our audience:
-•	Senior Leadership
-•	Store Managers
-•	Sales Executives
+-	Senior Leadership
+-	Store Managers
+-	Sales Executives
 
 c) Experience of the Audience: Our audience has a ‘Shallow’ experience working with this data. Our audience consists of critical decision-makers without a technological or analytical background, resulting in a limited understanding of the data.
 
 d) Scope of the Audience: Our intended audience is ‘Wide.’It includes Senior leadership for multiple departments, store managers overseeing various stores, and sales executives responsible for driving sales. Each of these factors can affect the decision-making and communication process.
 
 e) The audience cares about:
--•	The best-selling products.
--•	The busiest day of the week, the busiest hour for each day, the best-selling product.
--•	The rush hours (busiest hours) – when the sales are highest.
--•	How often do customers place an order?
+-	The best-selling products.
+- The busiest day of the week, the busiest hour for each day, the best-selling product.
+- The rush hours (busiest hours) – when the sales are highest.
+-	How often do customers place an order?
 
 f) Some actions that our audience needs to take:
--•	There should always be an abundant supply of the most popular products in the busiest aisles.
--•	Focus on developing strategies to boost the sales of the popular products.
--•	It would be beneficial to develop ways to increase efficiency during the busiest hours and days.
--•	Boost sales by focusing on underperforming products.
+-	There should always be an abundant supply of the most popular products in the busiest aisles.
+-	Focus on developing strategies to boost the sales of the popular products.
+-	It would be beneficial to develop ways to increase efficiency during the busiest hours and days.
+-	Boost sales by focusing on underperforming products.
 
 g) Stakes:
--•	If the company does not analyze and study underperforming items, it will lead to continued losses. Proper analysis can minimize losses.
--•	Studying the products that perform the best can help the company increase its sales.
--•	If a company fails to determine customers' most important requirements and identify no longer-needed items, they risk losing business to competitors.
+-	If the company does not analyze and study underperforming items, it will lead to continued losses. Proper analysis can minimize losses.
+-	Studying the products that perform the best can help the company increase its sales.
+-	If a company fails to determine customers' most important requirements and identify no longer-needed items, they risk losing business to competitors.
 
 h)The Big Idea:
 The objective is to boost the revenue by analyzing the top-selling products and optimizing sales of the low-performing ones.
