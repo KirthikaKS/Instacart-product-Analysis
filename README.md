@@ -4,7 +4,6 @@ The dataset for this assignment is obtained from Instacart, an electronic commer
 
 ACQUIRING DATA
 
-Performed Join Operation on the files
 ![image](https://github.com/user-attachments/assets/9b5f8197-4bd0-4dc7-8a24-cbd7865699a7)
 
 DEFINING THE AUDIENCE
