@@ -1,14 +1,20 @@
 **BUSINESS SCENARIO**
+===
 
 The dataset for this assignment is obtained from Instacart, an electronic commerce grocery ordering and delivery organization. The dataset contains a sample of over 3 million grocery orders from more than 200,000 Instacart users. The dataset contains details about the orders placed by various users, the sequence of products purchased in each order, the week and hour of day the order was placed, and a relative measure of time between orders. It also has information about the aisle and department for the sold products.
+---
 
 TABLEAU PUBLIC WEBSITE LINK FOR THE DASHBOARD  [https://public.tableau.com/app/profile/kirthika.kulandaivel.senthilkumar/viz/InstacartProductAnalysis_17312947661190/Story1)]
+===
 
 ACQUIRING DATA
-
+===
 ![image](https://github.com/user-attachments/assets/9b5f8197-4bd0-4dc7-8a24-cbd7865699a7)
 
+---
+
 DEFINING THE AUDIENCE
+===
 
 a) The primary groups and individuals that are the focus of our communication are:
 - Store Managers
@@ -51,9 +57,14 @@ g) Stakes:
 h)The Big Idea:
 The objective is to boost the revenue by analyzing the top-selling products and optimizing sales of the low-performing ones.
 
+---
+
 **DATA ANALYSIS **
+===
 
 SERVICE ANALYSIS
+===
+
 Analyzing the Busiest Days of the Week (dow)
 
 ![image](https://github.com/user-attachments/assets/9a88c68b-361b-4da8-b5f6-42a015b7859b)
@@ -92,6 +103,7 @@ d) Days Since Prior Order
 ![image](https://github.com/user-attachments/assets/ad84b06a-b320-4308-9b62-dba5d8071fe8)
 
 Customers are more likely to order after 30 days of their first order
+---
 
 2. Product Analysis:
 
@@ -120,7 +132,10 @@ d)Number of Items Purchased in an Order
 
 Customers order 5 items most often
 
+---
+
 3. Category Analysis:
+===
 
 a) Treemap of Aisles and Products – Most Popular Aisles
 
@@ -138,8 +153,10 @@ b) Number of products sold per department :
 The top 2 departments with the highest number of products sold are 
 I.	Produce
 II.	Dairy eggs
+---
 
-5. Top Products
+4. Top Products
+===
 
 a) Busiest Hours – Rank:
 
@@ -175,7 +192,10 @@ Weekend Busiest Hours
  
 ![image](https://github.com/user-attachments/assets/5f7bb1f8-7461-40b3-ac4d-660e9a8262e5)
 
+---
+
 Section 5: Organizing the Storyline with Storyboarding
+===
 
 The Storyboarding Process:
 
@@ -195,7 +215,10 @@ The storyline approach using the **Freytag’s Pyramid** Approach:
 11.	Best Selling Products – Resolution (Aspiration)
 12.	Days Since Prior Order – Resolution (Aspiration)
 
+----
+
 The **‘Logical’ rhetoric** is the best for this story.
+===
 
 ![image](https://github.com/user-attachments/assets/e9cec539-dd15-4c43-826c-590b523d13f7)
 
