@@ -61,7 +61,7 @@ The objective is to boost the revenue by analyzing the top-selling products and 
 
 ---
 
-**DATA ANALYSIS **
+DATA ANALYSIS
 ===
 
 SERVICE ANALYSIS
@@ -138,7 +138,6 @@ Customers order 5 items most often
 ---
 
 3. Category Analysis:
-===
 
 a) Treemap of Aisles and Products – Most Popular Aisles
 
@@ -160,7 +159,6 @@ II.	Dairy eggs
 ---
 
 4. Top Products
-===
 
 a) Busiest Hours – Rank:
 
