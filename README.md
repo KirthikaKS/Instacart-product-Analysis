@@ -64,8 +64,7 @@ The objective is to boost the revenue by analyzing the top-selling products and 
 DATA ANALYSIS
 ===
 
-SERVICE ANALYSIS
-===
+1. Service Analysis:
 
 Analyzing the Busiest Days of the Week (dow)
 
